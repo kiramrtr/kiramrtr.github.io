@@ -11,7 +11,7 @@ params:
     subtitle: "I eat to code and code to eat ;-)"
     buttons:
       - name: Dev Note's
-        url: https://kiranmarturu.com/dev-notes
+        url: https://kiramrtr.github.io/dev-notes
   socialIcons:
     - name: "GitHub"
       url: "https://github.com/kiramrtr"
